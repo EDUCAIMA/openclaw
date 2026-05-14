@@ -1,9 +1,10 @@
 {
     "gateway": {
-          "controlUi": {
-                  "allowedOrigins": ["https://openclaw-production-6ea3.up.railway.app", "*"],
-                  "dangerouslyAllowHostHeaderOriginFallback": true
-          },
-          "trustedProxies": ["0.0.0.0/0"]
+        "token": "2(&-8*4p}][Z#JD",
+        "controlUi": {
+            "allowedOrigins": ["https://openclaw-production-6ea3.up.railway.app", "*"],
+            "dangerouslyAllowHostHeaderOriginFallback": true
+        },
+        "trustedProxies": ["0.0.0.0/0"]
     }
 }
